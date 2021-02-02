@@ -1,0 +1,33 @@
+li {
+    font-size: 28px;
+    padding-left: 50px;
+    color:green 
+}
+.title{
+    background-color: greenyellow;
+}
+#protocolo{background-color: blue;}
+
+.caja1{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.caja2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.caja3{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+#mainbox{
+    border: 5px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}
